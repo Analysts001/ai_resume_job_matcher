@@ -89,3 +89,4 @@ Developed by Sooraj
 
 Give it a star on GitHub ⭐
 
+LLM integration can be enabled by adding an API key for real-time AI responses.
